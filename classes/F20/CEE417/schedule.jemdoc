@@ -1,0 +1,50 @@
+# jemdoc: analytics{UA-102057125-1}, nodate, title{F20 CEE417 Lectures}
+# jemdoc: menu{MENU}{schedule.html}
+= CEE 417: Computer Methods in Engineering Systems
+*Fall Semester 2020*
+
+== Schedule
+
+Will be available soon. 
+
+#In the mean time, you can check [https://www2.hawaii.edu/~jonghyun/classes/F19/CEE696/schedule.html Fall 2019 schedule]
+
+#~~~
+#{}{table}{schedule}
+#Date            |    Topic     |Reading|Action Items||
+#08\/27\/2019 T  |    [./files/slides01.pdf Intro\/Preparation]                                                                   | [./ref01.html materials] | [https://youtu.be/aircAruvnKk Watch 3B1B] ||
+#08\/29\/2019 Th |    [./files/slides02.pdf Feedforward Neural Networks (1) - Architecture\/Linear Algebra] | [./ref02.html materials] | HW0 due  ||
+#09\/03\/2019 T  |    [./files/slides03.pdf Feedforward Neural Networks (2) - Backpropagation\/Optimization (1)]       | [./ref03.html materials] | ||
+#09\/05\/2019 Th |    [./files/slides04.pdf Feedforward Neural Networks (3) - Backpropagation\/Optimization (2)]                 | [./ref04.html materials] | ||
+#09\/10\/2019 T  |    [./files/slides05.pdf Feedforward Neural Networks (4) - Generalization and Validation\/Statistical Learning (1)]     | [./ref05.html materials] | ||
+#09\/12\/2019 Th |    [./files/slides06.pdf Feedforward Neural Networks (5) - Generalization and Validation\/Statistical Learning (2)]     | [./ref06.html materials] | ||
+#09\/17\/2019 T  |    No Class                                                                            | | HW1 due ||
+#09\/19\/2019 Th |    No Class                                                                            | | ||
+#09\/24\/2019 T  |    [./files/slides07.pdf Autoassociative NNs\/History of Deep Learning]             | [./ref09.html materials] | HW2 due ||
+#09\/26\/2019 Th |    [./files/slides08.pdf Convolutional Neural Networks (1) - Architecture]                                    | [./ref10.html materials] | project meeting\#1 ||
+#10\/01\/2019 T  |    [./files/slides09.pdf Convolutional Neural Networks (2) - Learning and Evaluation]                        | [./ref11.html materials] |  project meeting\#1 ||
+#10\/03\/2019 Th |    [./files/slides10.pdf Convolutional Neural Networks (3) - Understanding with Visualization]                | [./ref12.html materials] | project meeting\#1 ||
+#10\/08\/2019 T  |    [./files/slides11.pdf Convolutional Neural Networks (4) - Applications]                                     | [./ref13.html materials] | ||
+#10\/10\/2019 Th |    [./files/slides12.pdf GPU Hardware]                                                                        | [./ref14.html materials] | [https://www.youtube.com/watch?v=YzD7Z2yRL7Y Watch LeCun] ||
+#10\/15\/2019 T  |    [./files/slides13.pdf Recurrent Neural Networks (1) - Intro ]                                              | [./ref15.html materials] | ||
+#10\/17\/2019 Th | [./files/slides14.pdf Recurrent Neural Networks (2) - LSTMs]                                       | [./ref16.html materials] | ||
+#10\/22\/2019 T  | [./files/slides15.pdf Recurrent Neural Networks (3) - Advanced topics]                                        | [./ref17.html materials] | ||
+#10\/24\/2019 Th | [./files/slides16.pdf Autoencoders (1) - Intro\/Dimension Reduction\/Unsupervised Learning]           | [./ref18.html materials] |HW3 due ||
+#10\/29\/2019 T  |    [./files/slides17.pdf Autoencoders (2) - Variational Encoder] 							 | [./ref19.html materials] | ||  
+#10\/31\/2019 Th |    [./files/slides18.pdf Autoencoders (3) - Applications] 		       		      							 | [./ref20.html materials] | ||
+#11\/05\/2019 T  |    [./files/slides19.pdf Reinforcement Learning ]						                     				 | [./ref21.html materials] | ||
+#11\/07\/2019 Th |    Mid-term   		      					                                   		 | | ||
+#11\/12\/2019 T  |    [./files/slides20.pdf Generative Adversarial Networks (1) - Intro]                                         | [./ref22.html materials] | ||
+#11\/14\/2019 Th |    [./files/slides21.pdf Generative Adversarial Networks (2) - Implementation]								 | [./ref23.html materials] | ||
+#11\/19\/2019 T  |    [./files/slides22.pdf Generative Adversarial Networks (3) - Advanced Topics\/Transfer Learning (1) - Intro]    																 | [./ref24.html materials] | project meeting\#2 ||
+#11\/21\/2019 Th |    [./files/slides23.pdf Transfer Learning (2) - Implementation]														 | [./ref25.html materials] | project meeting\#2 ||
+#11\/26\/2019 T  |    [./files/slides24.pdf Implementation Tips/Physics-informed Learning (1) - Intro]														 | [./ref26.html materials] | ||
+#11\/28\/2019 Th | No Class - Thanksgiving																 | | ||
+#12\/03\/2019 T  |    [./files/slides25.pdf Physics-informed Learning (2) - Examples]														 | [./ref28.html materials] | project meeting\#3 ||
+#12\/05\/2019 Th |    [./files/slides26.pdf Physics-informed Learning (3)]														 | [./ref29.html materials] | project meeting\#3 ||
+#12\/10\/2019 T  |    Final Project Preparation with individual meetings																		 |  | ||
+#12\/12\/2019 Th |    Final Project Preparation with individual meetings																		 |  | project meeting\#4 ||
+#12\/19\/2019 Th | Final Presentation (12 - 2 PM@H247) | | 
+#~~~
+#
+

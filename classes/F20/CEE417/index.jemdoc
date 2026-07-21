@@ -1,0 +1,34 @@
+# jemdoc: analytics{UA-102057125-1}, nodate, title{F20 CEE417 Welcome}
+# jemdoc: menu{MENU}{index.html}
+= CEE 417: Computer Methods in Engineering Systems
+*Fall Semester 2020*
+== Instructor
+
+[https://www2.hawaii.edu/~jonghyun Harry Lee] 
+
+Email: jonghyun dot harry dot lee at hawaii dot edu 
+
+#Office Hours: TR 4:00 - 5:00 PM, Holmes 336
+
+Syllabus (will be uploaded)
+
+#[./files/CEE_696_deep_learning_in_CEE_ES_2020.pdf Syllabus] 
+
+== Lectures 
+~~~
+T R 01:30-02:45 PM  Room: KUY 305
+~~~
+
+== Lecture Slides\/Notes\/Scripts
+
+You can find all lecture slides, notes, and scripts in [./schedule.html ``Lectures''] section on the left panel. 
+
+== Announcements
+#- (2\/6\/2020) [http://datascienCe.hawaii.edu/three-uh-professors-use-high-performance-computing-resources-to-enhance-their-courses/ CEE696 F19 covered by Hawaii Data Science Institute]
+#- (8\/6\/2019) Students will use [https://colab.research.google.com/ Google Colab] for their assignments and UH HPC GPU nodes for their final projects.
+
+== Notes
+
+#Computational resources for this course are supported by [https://www.hawaii.edu/epscor/ NSF 'Ike Wai project] and [https://www.hawaii.edu/its/ci/ UH ITS Cyberinfrastructure team].
+
+#Data sets used in the course and final project will be provided from [https://www.hawaii.edu/epscor/ NSF 'Ike Wai project], [https://www.erdc.usace.army.mil/Locations/CHL/ US Army Corps of Engineers Engineer Research and Development Center] and [https://www.sandia.gov/research/research_foundations/geoscience/ Sandia National Laboratories Geoscience Research \& Applications group]

@@ -1,0 +1,22 @@
+# jemdoc: analytics{UA-102057125-1}, nodate, title{JONGHYUN (HARRY) LEE}
+# jemdoc: menu{MENU}{schedule.html}
+= CEE 696: Deep Learning in Civil and Environmental Engineering and Earth Science
+*Fall Semester 2019*
+
+= References
+
+[https://sinews.siam.org/Details-Page/the-functions-of-deep-learning The Functions of Deep Learning by Gibert Strang]
+
+Tensorflow-Keras
+
+[https://www.youtube.com/watch?v=-vHQub0NXI4 Get started with using TensorFlow to solve for regression problems]
+
+Tensorflow 
+
+[https://www.youtube.com/watch?v=oFFbKogYdfc TensorFlow high-level APIs: Part 1 - loading data]
+
+[https://www.youtube.com/watch?v=TOP2aLxcuu8 TensorFlow high-level APIs: Part 2 - going deep on data and features]
+
+[https://www.youtube.com/watch?v=ChidCgtd1Lw TensorFlow high-level APIs: Part 3 - Building and refining your models]
+
+

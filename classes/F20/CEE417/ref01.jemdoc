@@ -1,0 +1,19 @@
+# jemdoc: analytics{UA-102057125-1}, nodate, title{JONGHYUN (HARRY) LEE}
+# jemdoc: menu{MENU}{schedule.html}
+= CEE 696: Deep Learning in Civil and Environmental Engineering and Earth Science
+*Fall Semester 2019*
+
+= References
+
+- [https://youtu.be/aircAruvnKk 3B1B - What is a Neural Network?]
+
+Google Colab
+
+- [https://www.youtube.com/watch?v=inN8seMm7UI Get started with Google Colaboratory]
+
+- [https://www.youtube.com/watch?v=PitcORQSjNM Getting Started with TensorFlow in Google Colaboratory]
+
+- [https://www.youtube.com/watch?v=_VTtrSDHPwUi Build a deep neural network in 4 mins with TensorFlow in Colab]
+
+- [https://www.youtube.com/watch?v=tCYSce6l8gA How to take advantage of GPUs and TPUs for your ML project]
+

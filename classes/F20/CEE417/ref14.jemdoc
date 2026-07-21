@@ -1,0 +1,10 @@
+# jemdoc: analytics{UA-102057125-1}, nodate, title{JONGHYUN (HARRY) LEE}
+# jemdoc: menu{MENU}{schedule.html}
+= CEE 696: Deep Learning in Civil and Environmental Engineering and Earth Science
+*Fall Semester 2019*
+
+= References
+
+[https://nyu-cds.github.io/python-gpu/01-introduction/ NYU Center for Data Science: Intro to GPU]
+
+[https://www.youtube.com/watch?v=YzD7Z2yRL7Y ISSCC 2019: Deep Learning Hardware: Past, Present, and Future - Yann LeCun]

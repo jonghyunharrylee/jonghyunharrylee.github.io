@@ -1,0 +1,42 @@
+# jemdoc: analytics{UA-102057125-1}, nodate, title{F20 CEE696 references}
+# jemdoc: menu{MENU}{references.html}
+= CEE 696-005: Deep Learning in CEE and ES
+*Fall Semester 2020*
+
+== References
+
+[http://www.deeplearningbook.org/ Goodfellow, Bengio and Courville, Deep Learning, MIT Press, 2016]
+
+Charniak, Introduction to Deep Learning, MIT Press, 2019
+
+Stone, Artificial Intelligence Engines: A tutorial introduction to the mathematics of deep learning, Sebtel Press, 2019
+
+Strang, Linear Algebra and Learning from Data, Wellesley Cambridge Press, 2019
+
+[http://neuralnetworksanddeeplearning.com/ Michael Nielsen, Neural Networks and Deep Learning, Determination Press, 2015]
+
+[https://web.stanford.edu/~hastie/ElemStatLearn/ Hastie, Tibshirani and Friedman, The Elements of Statistical Learning, Springer, 2009]
+
+[https://www.manning.com/books/gans-in-action Langr and Bok, GANs In Action, Manning Publication, 2019]
+
+[https://epubs.siam.org/doi/abs/10.1137/18M1165748 Higham and Higham, Deep Learning: An Introduction for Applied Mathematicians, SIAM Review, 2019] 
+
+
+#=== Videos
+
+#==== Overview 
+
+#[https://www.youtube.com/watch?v=qyvlt7kiQoI&t=1m12s Tensorflow and deep learning - without a PhD by Martin Görner]
+
+
+
+=== Reviews
+
+LeCun, Bengio and Hinton, Deep Learning, Nature, 521:436-444, 2015 
+
+Schmidhuber, Deep learning in Neural Networks: An overview, Neural networks, 61:85-117, 2015
+
+
+=== Etc
+
+Jaynes, Probability Theory: The logic of science, Cambridge University Press, 2003
